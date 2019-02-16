@@ -1,5 +1,5 @@
 # Popular Movies, Stage 2
-Generate your own API_KEY from "themoviedb.org" and replace it in NetworkUtils.java String api_key = ""
+Generate your own API_KEY from "themoviedb.org" and replace it in NetworkUtils.java String api_key =  ""
 
 # Screenshots
 
